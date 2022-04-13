@@ -31,7 +31,7 @@ const Navbar = ({ciudad,pais,openSidebar,sidebar}) => {
                 </div>
 
                 <div className='user d-none d-sm-block'>
-                    <span>Lina Negrete</span>
+                    <span>Usuario</span>
                     <img src={UserIcon} width={50} alt='usuario'/>
                 </div>
 
