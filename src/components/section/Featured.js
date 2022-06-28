@@ -11,7 +11,7 @@ const Featured = () => {
     <div className='container-fluid'>
       <div className='row row-feactured'>
         <div className='row-text d-flex justify-content-between'>
-          <h4 className=''>Destacados</h4>
+          <h4 className=''>Destacados....</h4>
           <u>Ver Más</u>
         </div>
         <div className='content-card mb-4 col-md-12 col-sm-6 d-flex justify-content-between'>
