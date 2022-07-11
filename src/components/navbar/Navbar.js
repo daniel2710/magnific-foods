@@ -19,7 +19,7 @@ const Navbar = ({ciudad,pais,openSidebar,sidebar}) => {
                 </div>
 
                 <div className={sidebar? 'title-none' : 'title'}>
-                    <h1>Ventual</h1>
+                    <h1>Magnific Foods</h1>
                 </div>
 
                 <div className='d-none d-sm-block'>

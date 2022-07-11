@@ -7,7 +7,7 @@ const Sidebar = ({openSidebar}) => {
       <div className='sidebar'>
         <div className='content-sidebar d-flex'>
           <AiOutlineClose onClick={openSidebar}/>
-          <h1>Ventual</h1>
+          <h1>Magnific Foods</h1>
         </div>
         <div className='menu'>
             <h4>Menú</h4>
